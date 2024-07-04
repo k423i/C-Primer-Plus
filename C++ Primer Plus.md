@@ -18,5 +18,9 @@ string s1;
 string s2="copyTos1";
 s1=s2; // valid
 string s3=s1+s2; // copyTos1copyTos1
+
+// string带有getline函数
+string str;
+getline(cin, str);
 ```
 
