@@ -11,5 +11,12 @@ cin.getline(name, 15);
 // 那么如果直接运行 cin.get(name, 15) 会留一个换行符在cin区无法进行下去
 // 需要使用 cin.get() 读取掉这个换行 才能进行下面的正确读取 
 cin.get(name, 15).get();
+// 普通cin的输入和cin.get()同理 会留一个换行
+
+// string对象可以赋值 但char[]不行
+string s1;
+string s2="copyTos1";
+s1=s2; // valid
+string s3=s1+s2; // copyTos1copyTos1
 ```
 
