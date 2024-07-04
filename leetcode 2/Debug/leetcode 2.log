@@ -1,0 +1,5 @@
+﻿  leetcode 2.cpp
+D:\c++\leetcode 2\leetcode 2.cpp(96,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c++\leetcode 2\leetcode 2.cpp(97,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\c++\leetcode 2\leetcode 2.cpp(107,14): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  leetcode 2.vcxproj -> D:\c++\leetcode 2\Debug\leetcode 2.exe
